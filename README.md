@@ -2,7 +2,7 @@
 
 Pure Javascript implementation of the NTP Client Protocol
 
-## Getting Started
+## Getting Started Sipos-SRL
 Install the module with: `npm install ntp-client`
 
 ```javascript
